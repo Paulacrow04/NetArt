@@ -10,10 +10,7 @@ function draw() {
 
 
 function mousePressed(){
-  fill(100, 250, 80);
-  text('$$$', mouseX, mouseY);
+  fill(20, 20, 220);
+  text('"liked"', mouseX, mouseY);
 
   }
-
-
-
