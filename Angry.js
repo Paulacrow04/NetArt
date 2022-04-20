@@ -1,7 +1,7 @@
 let value = 0
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(5000, 5000);
   textSize(32)
 }
 
